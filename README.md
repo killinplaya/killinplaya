@@ -129,7 +129,8 @@
 **«ИТ-перспектива: решения для будущего» (Ростелеком)**
 В рамках проекта успешно защитил решение:
 **«Система управления складом»**
-[Астра Александр Максимович.pdf](https://github.com/user-attachments/files/25741032/default.pdf)
+<img width="596" height="842" alt="Диплом" src="https://github.com/user-attachments/assets/a0de91b6-fe8a-464b-82e4-7c5d75c5477c" />
+
 
 ---
 
