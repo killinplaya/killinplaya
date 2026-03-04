@@ -1,16 +1,91 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**killinplaya/killinplaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Александр.  
+Я начинающий backend-разработчик, сейчас изучаю разработку серверных приложений на Go.
 
-Here are some ideas to get you started:
+Основная цель — разобраться в архитектуре backend-сервисов, работе HTTP API и конкурентности в Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Обучение
+
+Закончил бакалавриат по направлению **«Информационные системы и технологии»**.
+
+Сейчас заканчиваю магистратуру по направлению **«Технологические машины и оборудование»**.
+
+Разработку на Go изучаю самостоятельно через практику и небольшие проекты.
+
+---
+
+## Проекты
+
+**Telegram To-Do Bot (Go)**  
+https://github.com/killinplaya/to-do-golang-bot
+
+Учебный backend-проект на Go.
+
+---
+
+## Опыт из обучения
+
+Во время обучения в бакалавриате работал с несколькими технологиями.
+
+**C#**
+- разрабатывал backend-часть приложения для выпускной квалификационной работы
+- работал с HTTP API и серверной логикой
+
+**Python**
+- использовал Python для задач анализа данных
+- работал с Big Data
+- обучал модели машинного обучения в рамках учебных проектов
+
+---
+
+## Go — что уже изучил
+
+- slices
+- maps
+- базовая работа с error handling
+- работа с go modules (go.mod)
+- базовая работа с HTTP и JSON
+
+---
+
+## Go — что сейчас изучаю
+
+- structs  
+- interfaces  
+- context  
+- sync.RWMutex  
+- atomic операции  
+- проектирование структуры backend-приложений  
+- REST API  
+- middleware  
+
+---
+
+## С чем знакомился
+
+- PostgreSQL  
+- SQLite  
+- Swagger  
+- Docker  
+
+---
+
+## Инструменты
+
+Использую в обучении и проектах:
+
+- Go  
+- Git  
+- Linux (базовый уровень)  
+- Postman  
+- Makefile (изучаю)  
+- Docker (изучаю)
+
+---
+
+## Контакты
+
+Telegram: @killinplaya
