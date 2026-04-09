@@ -28,6 +28,10 @@
 
 🔗 https://github.com/killinplaya/to-do-golang-bot
 
+**SMK K2 Web-site**  
+Учебный проект-заказ для ООО «СТРОИТЕЛЬНО-МОНТАЖНАЯ КОМПАНИЯ "К2"»
+
+🔗 https://github.com/killinplaya/Web-site-SMKK2
 ---
 
 # ⚙️ Go
@@ -40,13 +44,13 @@
 - maps  
 - базовый error handling  
 - работа с go modules (go.mod)  
-- базовая работа с HTTP и JSON  
-
-**Сейчас изучаю**
-
+- базовая работа с HTTP и JSON
 - structs  
 - interfaces  
-- context  
+- context 
+
+**Сейчас изучаю**
+ 
 - sync.RWMutex  
 - atomic операции  
 - проектирование структуры backend-приложений  
